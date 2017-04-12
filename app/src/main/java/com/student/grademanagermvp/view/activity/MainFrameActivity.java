@@ -37,6 +37,7 @@ public class MainFrameActivity extends Activity implements MainFrameContract.Mai
 
     private ActivityComponent mActivityComponent;
 
+	//测试 git
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
